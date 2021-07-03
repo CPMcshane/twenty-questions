@@ -10,7 +10,7 @@ My purpose for writing this software is to take a step towards more machine lear
 is not a huge step, but it uses statistical analysis on the questions to find the most reliable path to the
 answer, which is why it consistantly finds the answer in the 7-8 range. I enjoyed programming this very much.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/oGgwCV-4yO4)
 
 # Development Environment
 
