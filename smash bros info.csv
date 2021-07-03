@@ -1,0 +1,76 @@
+﻿Characters,has sword,has gun,mario gam,zelda game,fire emblem,bad guy,human,animal,has projectile,has counter,has hat,are echo,is boy,is pokemon,has crown,has helmet,has street fighter,has gold sword,have band,has feathers,have fire,has reflect,have brown tail
+Mario,no,yes,yes,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,yes,yes,no
+Donkey Kong,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Link,yes,no,no,yes,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Samus,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no
+Dark Samus,no,yes,no,no,no,no,yes,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Yoshi,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Kirbi,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no
+Fox,no,yes,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,yes
+Pikachu,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes
+Luigi,no,no,yes,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Ness,no,no,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,yes,yes,no
+Captain Falcon,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no
+Jigglypuff,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no
+Peach,no,no,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no
+Daisey,no,no,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no
+Bowser,no,no,yes,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,yes
+Ice Climbers,no,no,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Sheik,no,no,no,yes,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Zelda,no,no,no,yes,no,no,yes,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,yes,no
+Dr. Mario,no,yes,yes,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,yes,no
+Pichu,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no
+Falco,no,yes,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,yes,yes,yes,no
+Marth,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Lucina,yes,no,no,no,yes,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Young Link,yes,no,no,yes,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no
+Ganondorf,yes,no,no,yes,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+Mewtwo,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no
+Roy,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,no,no
+Chrom,yes,no,no,no,yes,no,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,yes,no,no
+Mr. Game and Watch,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no
+Meta Knight,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no
+Pit,yes,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,yes,no,no,no
+Dark Pit,yes,no,no,no,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,no,yes,yes,yes,no,no,no
+Zero Suit Samus,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+Wario,no,no,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Snake,no,yes,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,yes,no,no
+Ike,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,yes,yes,no,yes,no,no
+Pokemon Trainer,no,yes,no,no,no,no,yes,no,yes,no,yes,no,yes,yes,no,no,no,no,no,no,yes,no,no
+Diddy Kong,no,yes,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes
+Lucas,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,no
+Sonic,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+King Dedede,no,no,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Olimar,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no
+Lucario,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no
+R.O.B.,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no
+Toon Link,yes,no,no,yes,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no
+Wolf,no,yes,no,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no
+Villager,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no
+Mega Man,no,yes,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no
+Wii Fit Trainer,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Rosalina & Luma,no,no,yes,no,no,no,yes,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no
+Little mac,no,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Greeninja,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no
+Mii Brawler,no,no,no,no,no,no,yes,no,yes,no,yes,no,yes,no,yes,yes,no,no,yes,no,yes,yes,no
+Mii Swordfighter,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,yes,no,yes,yes,no,yes,yes,no,yes,yes,no
+Mii Gunner,no,yes,no,no,no,no,yes,no,yes,no,yes,no,yes,no,yes,yes,no,no,yes,no,yes,yes,no
+Palutena,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no
+Pac-Man,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Robin,yes,no,no,no,yes,no,yes,no,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no
+Shulk,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Bowser Jr.,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,yes
+Duck Hunt,no,yes,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,no,yes
+Ryu,no,no,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,yes,no,yes,no,yes,no,no
+Ken,no,no,no,no,no,no,yes,no,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,yes,no,no
+Cloud,yes,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no
+Corrin,yes,no,no,no,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
+Bayonetta,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
+Inkling,no,yes,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+Ridley,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no
+Simon,no,no,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,yes,no,no
+Richter,no,no,no,no,no,no,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,yes,no,no
+King K. Rool,no,yes,no,no,no,yes,no,yes,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no
+Isabelle,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes
+Incineroar,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,no
+Piranna Plant,no,no,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no
