@@ -35,79 +35,6 @@ class Interrogator:
 					  "Does your character have fire in any attacks? ",
 					  "Does your character have any move to reflect projectiles? ",
 					  "Does your character have brown on their tail? "]
-		
-		# A 1D array to hold the yes/no info gathered from the questions
-		self.character_info = [None, None, None, None, None, None, None, None, None,
-							None, None, None, None, None, None, None, None, None, None,
-							None, None, None, None]
-
-
-	def ask_question(self, index):
-		""" Asks the yes/no questions """
-		
-		# Loop to keep the player typing unless a yes
-		# or no answer is given
-		answer = ''
-		while True:
-			
-			# User input, should be a yes or a no
-			# The quesion asked is based on the index passed in
-			answer = input(self.question_list[index])
-
-			# Set the value in the character info list
-			# to yes or no at the correct index
-			if answer == "yes":
-				self.set_info("yes", index)
-				self.update_guess_array(answer, index + 1)
-				break
-			elif answer == "no":
-				self.set_info("no", index)
-				self.update_guess_array(answer, index + 1)
-				break
-			else:
-				print("\nmust type either yes or no\n")
-
-
-	def make_guess(self, character):
-		""" Guess a specific character """
-
-		while answer != 'yes' or 'no':
-
-			# Ask the user
-			answer = input(f"Is your character {character}? ")
-
-			# Returns True if yes, False if no
-			if answer == 'yes':
-				return True
-			elif answer == 'no':
-				return False
-			else:
-				# Print error message if not yes or no
-				print("\nAnswer must be either yes or no\n")
-				
-
-	def get_character_info(self):
-		""" returns the character info list """
-		return self.character_info
-
-
-	def get_characters_left(self):
-		""" returns a list of characters left """
-		characters_left = []
-		for i in range(0,75):
-
-			character = guess_array[i,0]
-
-			if character != None:
-
-				characters_left.append(character)
-
-		return characters_left
-
-
-	def set_info(self, answer, index):
-		""" adds a yes or no to the character list """
-		self.character_info[index] = answer
 
 
 	def find_question(self):
@@ -162,6 +89,31 @@ class Interrogator:
 		interrogator.ask_question(lowest_index)
 
 
+	def ask_question(self, index):
+		""" Asks the yes/no questions """
+		
+		# Loop to keep the player typing unless a yes
+		# or no answer is given
+		answer = ''
+		while True:
+			
+			# User input, should be a yes or a no
+			# The quesion asked is based on the index passed in
+			answer = input(self.question_list[index])
+
+			# Set the value in the character info list
+			# to yes or no at the correct index
+			if answer == "yes":
+				self.update_guess_array(answer, index + 1)
+				break
+			elif answer == "no":
+				self.update_guess_array(answer, index + 1)
+				break
+			else:
+				print("\nmust type either yes or no\n")
+
+
+
 	def update_guess_array(self, answer, index):
 		""" 
 		Update guess array to remove characters
@@ -183,7 +135,40 @@ class Interrogator:
 
 		guess_array[:, index] = None
 
-		
+
+	def get_characters_left(self):
+		""" returns a list of characters left """
+		characters_left = []
+		for i in range(0,75):
+
+			character = guess_array[i,0]
+
+			if character != None:
+
+				characters_left.append(character)
+
+		return characters_left
+
+
+	def make_guess(self, character):
+		""" Guess a specific character """
+
+		while answer != 'yes' or 'no':
+
+			# Ask the user
+			answer = input(f"Is your character {character}? ")
+
+			# Returns True if yes, False if no
+			if answer == 'yes':
+				return True
+			elif answer == 'no':
+				return False
+			else:
+				# Print error message if not yes or no
+				print("\nAnswer must be either yes or no\n")
+				
+				
+
 
 interrogator = Interrogator()
 
